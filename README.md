@@ -3,6 +3,15 @@
 This project extends the [Whisper Streaming](https://github.com/ufal/whisper_streaming) implementation by incorporating additional features, including real-time AI-generated viewer comments.
 
 ## How It Works
+### requirements 
+```bash
+pip install -r requirements.txt
+```
+### mac 터미널에서
+```bash
+brew install ffmpeg
+```bash
+
 
 ### 1️⃣ Start the Real-Time Speech Recognition Model (Whisper Streaming Server)
 ```bash
