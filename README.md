@@ -30,7 +30,7 @@ This command captures microphone input, converts it to a 16kHz mono WAV format, 
 
 This setup enables real-time speech recognition and simulated audience interaction through WebSocket, making it ideal for AI-powered live streaming experiences. 🎙️
 
-#본프로젝트는 mac 에서 진행됨
+## 본프로젝트는 mac 에서 진행됨
 
 
 
