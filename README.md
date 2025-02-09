@@ -28,7 +28,9 @@ This command captures microphone input, converts it to a 16kHz mono WAV format, 
 - **Virtual Viewers WebSocket Server** takes the transcribed text and generates AI-powered viewer comments.
 - **FFmpeg** captures microphone input and streams it to Whisper for real-time processing.
 
-This setup enables real-time speech recognition and simulated audience interaction through WebSocket, making it ideal for AI-powered live streaming experiences. 🎙️💬🚀
+This setup enables real-time speech recognition and simulated audience interaction through WebSocket, making it ideal for AI-powered live streaming experiences. 🎙️
+
+#본프로젝트는 mac 에서 진행됨
 
 
 
