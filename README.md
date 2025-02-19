@@ -42,4 +42,7 @@ ffmpeg -f avfoundation -i ":0" -ac 1 -ar 16000 -f wav - | nc localhost 43007
 
 ##  본 프로젝트는 Mac 환경에서 실행됩니다.
 
+## 예시
+![image](https://github.com/user-attachments/assets/bd6e8f2c-1144-42e3-95dc-1b83ab1976de)
+
 
