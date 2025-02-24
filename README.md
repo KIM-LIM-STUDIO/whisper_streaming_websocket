@@ -48,6 +48,5 @@ ffmpeg -f avfoundation -i ":0" -ac 1 -ar 16000 -f wav - | nc localhost 43007
 ![image](https://github.com/user-attachments/assets/bd6e8f2c-1144-42e3-95dc-1b83ab1976de)
 
 
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/908a6201-bd8b-4f02-a4f5-9c522ecf6a73" />
 
 
