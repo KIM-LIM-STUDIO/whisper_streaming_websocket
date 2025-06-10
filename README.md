@@ -24,7 +24,7 @@ python3 whisper_online_server.py --backend mlx-whisper --language ko --vac --mod
 ```bash
 python3 virtual_viewers.py
 ```
-이 스크립트는 Whisper에서 변환된 텍스트를 받아 OpenAI API를 이용해 가상 시청자 댓글을 생성한 후 WebSocket을 통해 클라이언트(예: React 프론트엔드)로 전송합니다.
+이 스크립트는 Whisper에서 변환된 텍스트를 받아 OpenAI API or 파인튜닝된 mistral-7B 를 이용해 가상 시청자 댓글을 생성한 후 WebSocket을 통해 클라이언트(예: React 프론트엔드)로 전송합니다.
 
 ### 3️⃣ FFmpeg를 사용하여 실시간 오디오 입력 제공
 ```bash
